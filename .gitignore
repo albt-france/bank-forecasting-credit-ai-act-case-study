@@ -1,0 +1,12 @@
+# local only
+.env
+DECISIONS.md
+HANDOFF*.md
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+data/_hidden_truth.csv
+data/bank.duckdb
+data/bank.duckdb.wal
+data/processed/credit_scores.parquet
+*.pyc

@@ -1,0 +1,5 @@
+model,features,auc
+Logistic,without duration,0.8013778657012123
+Gradient boosting,without duration,0.8165193523279399
+Logistic,with duration (leak),0.9424054495495071
+Gradient boosting,with duration (leak),0.9547245005660644

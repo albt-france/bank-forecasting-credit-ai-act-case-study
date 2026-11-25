@@ -1,0 +1,10 @@
+source,url,status,bytes,retrieved,from_cache
+ECB BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E,https://data-api.ecb.europa.eu/service/data/BSI/M.BE.N.A.L21.A.1.U2.2250.Z01.E?format=csvdata&startPeriod=2015-01,200,80555,2026-11-25,True
+ECB MIR.M.BE.B.A2C.A.R.A.2250.EUR.N,https://data-api.ecb.europa.eu/service/data/MIR/M.BE.B.A2C.A.R.A.2250.EUR.N?format=csvdata&startPeriod=2015-01,200,87787,2026-11-25,True
+ECB MIR.M.BE.B.A2C.A.B.A.2250.EUR.N,https://data-api.ecb.europa.eu/service/data/MIR/M.BE.B.A2C.A.B.A.2250.EUR.N?format=csvdata&startPeriod=2015-01,200,85411,2026-11-25,True
+UCI Bank Marketing (id 222),https://archive.ics.uci.edu/static/public/222/bank+marketing.zip,200,1023843,2026-11-25,True
+UCI Default of Credit Card Clients (id 350),https://archive.ics.uci.edu/static/public/350/default+of+credit+card+clients.zip,200,5539494,2026-11-25,True
+"EU AI Act, Regulation (EU) 2024/1689",https://publications.europa.eu/resource/celex/32024R1689,200,1262391,2026-11-25,True
+Nager.Date Belgian holidays 2024,https://date.nager.at/api/v3/PublicHolidays/2024/BE,200,2457,2026-11-25,True
+Nager.Date Belgian holidays 2025,https://date.nager.at/api/v3/PublicHolidays/2025/BE,200,2457,2026-11-25,True
+Nager.Date Belgian holidays 2026,https://date.nager.at/api/v3/PublicHolidays/2026/BE,200,2457,2026-11-25,True

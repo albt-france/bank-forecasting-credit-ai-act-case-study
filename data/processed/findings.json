@@ -1,0 +1,223 @@
+{
+ "forecast": {
+  "n_months": 141,
+  "first_month": "2015-01",
+  "last_month": "2026-09",
+  "n_origins": 12,
+  "origins": "2024-10 to 2025-09",
+  "mape_sarimax": 0.10952582227999533,
+  "mase_sarimax": 0.4147043784843233,
+  "cov80_sarimax": 0.9861111111111112,
+  "cov95_sarimax": 0.9930555555555556,
+  "mape_ets": 0.08389806881160594,
+  "mase_ets": 0.3138292464613644,
+  "cov80_ets": 0.9652777777777778,
+  "cov95_ets": 0.9930555555555556,
+  "mape_snaive": 0.15038591933338402,
+  "mase_snaive": 0.5588978747646879,
+  "rate_coef_log": -0.4254541360393141,
+  "rate_effect_pct_per_100bp": -34.65270478846085,
+  "rate_coef_p": 0.013278132752017951,
+  "rate_effect_ci95_pct": [
+   -53.336462028859664,
+   -8.488100621409156
+  ],
+  "last_rate": 3.76,
+  "rate_min": 1.43,
+  "rate_min_month": "2021-02",
+  "rate_max": 3.9,
+  "rate_max_month": "2023-12",
+  "vol_last": 3614.0,
+  "vol_last_3": [
+   3607.0,
+   3176.0,
+   3614.0
+  ],
+  "next12_stable_m": 41807.694272443885,
+  "next12_minus50_m": 51718.08175167155,
+  "next12_plus50_m": 33796.36756000999,
+  "last12_actual_m": 41726.0,
+  "deposits": {
+   "break_month": "2021-10",
+   "growth_before_pct_yr": 10.425782623577895,
+   "growth_after_pct_yr": -3.9098226993059204,
+   "chow_F": 372.3104132035534,
+   "chow_p": 1.1102230246251565e-16,
+   "slope_F": 749.6565044785666,
+   "peak_month": "2022-06",
+   "peak_value_m": 136122.0,
+   "first_value_m": 60965.0,
+   "last_value_m": 108680.0,
+   "last_month": "2026-09",
+   "drop_peak_to_last_pct": -20.159856599227165
+  },
+  "dep_mape_ets": 0.031163660587467803,
+  "dep_mape_naive": 0.02903843957879369,
+  "dep_mase_ets": 2.6339039649178324,
+  "dep_mase_naive": 2.4610157124446284
+ },
+ "marketing": {
+  "n_calls": 41188,
+  "n_test": 8237,
+  "base_rate_all": 0.11265417111780131,
+  "base_rate_test": 0.11264870114105366,
+  "final_model": "Gradient boosting",
+  "auc_final": 0.8165193523279399,
+  "auc_with_duration": 0.9547245005660644,
+  "auc_logistic": 0.8013778657012123,
+  "auc_gb": 0.8165193523279399,
+  "gain_top10": 0.48060344827586204,
+  "gain_top20": 0.6637931034482759,
+  "gain_top30": 0.7510775862068966,
+  "lift_top20": 3.3189655172413794,
+  "precision_top20": 0.3737864077669903,
+  "auc_oot_logistic": 0.7487127152154954,
+  "auc_oot_gb": 0.6700812625515018,
+  "base_rate_oot": 0.30836469588442394
+ },
+ "credit": {
+  "n_clients": 30000,
+  "n_test": 9000,
+  "default_rate": 0.2212,
+  "auc_lr": 0.7544869303791731,
+  "gini_lr": 0.5089738607583463,
+  "ks_lr": 0.39873982787001483,
+  "brier_lr": 0.1393192307238626,
+  "auc_gb": 0.775291995603844,
+  "gini_gb": 0.550583991207688,
+  "ks_gb": 0.4195481894233854,
+  "brier_gb": 0.1359381892045983,
+  "brier_base": 0.17228295162509447,
+  "cal_max_gap": 0.019749019394500578,
+  "cost_bad": 5.0,
+  "cost_good": 1.0,
+  "threshold_best": 0.15,
+  "threshold_theory": 0.16666666666666666,
+  "cost_best": 0.5927777777777777,
+  "cost_at_050": 0.7673333333333333,
+  "cost_accept_all": 1.106111111111111,
+  "acceptance_at_best": 0.6046666666666667,
+  "top_variable": "months_late_5m",
+  "top_auc_drop": 0.08291987936296877,
+  "psi_aug_sep": 0.04001768986335787,
+  "psi_stress": 0.17150406364549092,
+  "acc_male": 0.590232949761437,
+  "acc_female": 0.6141254368217767,
+  "def_male": 0.2385630087005332,
+  "def_female": 0.209858377781865,
+  "gd_male": 0.3203096203464799,
+  "gd_female": 0.308659217877095,
+  "acc_by_age": {
+   "30-39": 0.6419567827130852,
+   "40-49": 0.6174668028600613,
+   "50+": 0.5785024154589372,
+   "<30": 0.5603747397640527
+  },
+  "gd_by_age": {
+   "30-39": 0.283414451516286,
+   "40-49": 0.2959731543624161,
+   "50+": 0.33278955954323,
+   "<30": 0.3548098434004474
+  },
+  "def_by_age": {
+   "30-39": 0.1983793517406963,
+   "40-49": 0.2390194075587334,
+   "50+": 0.2596618357487922,
+   "<30": 0.2244968771686329
+  },
+  "min_group_n": 828,
+  "scorecard_points_range": [
+   440,
+   577
+  ]
+ },
+ "atm": {
+  "n_atms": 60,
+  "n_origins": 34,
+  "bt_from": "2026-01-05",
+  "bt_to": "2026-08-30",
+  "mape_model": 0.13772433158706723,
+  "mape_naive": 0.21476903886122267,
+  "mape_random_split": 0.1338982554236807,
+  "mape_v1_random_lag1": 0.11319422430036055,
+  "mape_temporal_same_days": 0.1381690643496902,
+  "easter": {
+   "actual": 206360.0,
+   "model": 213381.9014287468,
+   "naive": 375580.0
+  },
+  "atm036": {
+   "mape_with_transfer": 0.14640680276463308,
+   "mape_without": 0.3327736484656671,
+   "under_forecast_without_eur": 86612.10838446752,
+   "cash_planned_for_atm037_eur": 168877.5
+  },
+  "festival": {
+   "mape_model": 0.25655829441636047,
+   "mape_naive": 0.580249747793751,
+   "n": 16
+  },
+  "drift_detect_mall": "2026-09-02",
+  "cusum_h_watch": 5.0,
+  "cusum_h_alert": 7.0,
+  "drift_days_to_detect": 2,
+  "drift_detect_all": {
+   "city_centre": null,
+   "city_centre_watch_days_sep_oct": 0,
+   "city_centre_watch_days_jan_aug": 0,
+   "city_centre_bias_sep1_14": 0.0012949819207151603,
+   "city_centre_bias_sep15_oct31": -0.015244400097053603,
+   "city_centre_back_below_watch": null,
+   "mall": "2026-09-02",
+   "mall_watch_days_sep_oct": 60,
+   "mall_watch_days_jan_aug": 1,
+   "mall_bias_sep1_14": -0.18635362882486173,
+   "mall_bias_sep15_oct31": -0.1333923338821874,
+   "mall_back_below_watch": null,
+   "rural": "2026-09-06",
+   "rural_watch_days_sep_oct": 9,
+   "rural_watch_days_jan_aug": 0,
+   "rural_bias_sep1_14": -0.05891821393603834,
+   "rural_bias_sep15_oct31": -0.03112758706112673,
+   "rural_back_below_watch": "2026-09-14",
+   "station": null,
+   "station_watch_days_sep_oct": 0,
+   "station_watch_days_jan_aug": 0,
+   "station_bias_sep1_14": -0.06707566451117347,
+   "station_bias_sep15_oct31": 0.020340445352924872,
+   "station_back_below_watch": null
+  },
+  "prod_mape_by_site": {
+   "city_centre": 0.10480074707196933,
+   "mall": 0.20953383446603666,
+   "rural": 0.10127814858201961,
+   "station": 0.22755664683016769
+  },
+  "refill": {
+   "fixed": {
+    "visits": 1035.0,
+    "stockout_hours": 0.0,
+    "cost_eur": 160656.30821917808
+   },
+   "forecast": {
+    "visits": 749.0,
+    "stockout_hours": 22.563639851549596,
+    "cost_eur": 117849.38312830856
+   }
+  },
+  "refill_q95_ratio": 1.2964150435032185,
+  "simpson": {
+   "Brussels|ALL": 0.1765647487299807,
+   "Flanders|ALL": 0.125370641539002,
+   "Brussels|city_centre": 0.1013741026911511,
+   "Flanders|city_centre": 0.112489751882908,
+   "Brussels|mall": 0.1152312258725362,
+   "Flanders|mall": 0.127318598403983,
+   "Brussels|rural": 0.0841686063841642,
+   "Flanders|rural": 0.0998650914431102,
+   "Brussels|station": 0.2279661908561136,
+   "Flanders|station": 0.240920980814388
+  },
+  "simpson_holds": true
+ }
+}

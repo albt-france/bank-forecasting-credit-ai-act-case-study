@@ -1,0 +1,424 @@
+month,value,UNIT_MULT,TITLE,series,key
+2015-01,60965.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-02,61985.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-03,63806.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-04,64961.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-05,68495.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-06,67733.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-07,67055.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-08,66069.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-09,65733.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-10,66964.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-11,67928.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-12,68092.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-01,69320.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-02,70136.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-03,71170.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-04,72828.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-05,76339.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-06,77039.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-07,76994.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-08,76374.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-09,76952.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-10,76699.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-11,77458.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2016-12,79009.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-01,78894.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-02,79902.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-03,80671.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-04,81338.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-05,83810.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-06,84145.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-07,83060.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-08,82802.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-09,82740.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-10,82949.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-11,83523.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2017-12,84595.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-01,84743.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-02,86121.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-03,87382.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-04,87704.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-05,91393.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-06,92313.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-07,92285.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-08,91943.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-09,91928.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-10,92428.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-11,93262.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2018-12,94579.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-01,95228.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-02,96968.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-03,99066.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-04,99601.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-05,103415.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-06,102913.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-07,100986.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-08,100470.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-09,99810.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-10,100293.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-11,101094.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2019-12,102831.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-01,102496.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-02,103707.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-03,104745.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-04,107583.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-05,112740.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-06,111819.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-07,112098.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-08,110816.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-09,110722.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-10,111564.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-11,111624.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2020-12,114520.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-01,114328.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-02,116210.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-03,116200.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-04,116738.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-05,120237.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-06,120696.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-07,121886.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-08,122305.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-09,122001.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-10,123048.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-11,122887.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2021-12,126232.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-01,125331.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-02,127206.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-03,127708.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-04,131863.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-05,134732.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-06,136122.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-07,136064.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-08,135163.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-09,134627.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-10,132213.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-11,129258.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2022-12,128052.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-01,123693.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-02,121213.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-03,117256.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-04,115712.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-05,116782.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-06,115070.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-07,111097.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-08,111528.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-09,103406.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-10,102509.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-11,101689.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2023-12,101516.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-01,100240.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-02,100506.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-03,99229.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-04,100622.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-05,104268.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-06,104339.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-07,103040.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-08,106853.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-09,104266.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-10,104329.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-11,104249.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2024-12,105283.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-01,104937.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-02,106320.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-03,106685.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-04,107111.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-05,110539.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-06,110472.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-07,108941.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-08,107944.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-09,112913.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-10,111433.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-11,111387.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2025-12,112788.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2026-01,110556.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2026-02,111455.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2026-03,110290.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2026-04,109957.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2026-05,113094.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2026-06,111974.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2026-07,109327.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2026-08,108160.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2026-09,108680.0,6,"Overnight deposits placed by euro area households reported by MFIs excluding NCB, Stocks",deposits_hh_overnight,BSI.M.BE.N.A.L21.A.1.U2.2250.Z01.E
+2015-01,2.68,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-02,2.6,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-03,2.53,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-04,2.49,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-05,2.45,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-06,2.43,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-07,2.45,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-08,2.45,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-09,2.44,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-10,2.47,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-11,2.46,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-12,2.42,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-01,2.4,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-02,2.34,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-03,2.23,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-04,2.15,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-05,2.07,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-06,2.03,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-07,2.03,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-08,2.01,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-09,2.02,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-10,2.0,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-11,1.99,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2016-12,2.0,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-01,2.03,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-02,2.05,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-03,2.11,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-04,2.13,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-05,2.14,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-06,2.15,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-07,2.13,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-08,2.13,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-09,2.11,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-10,2.06,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-11,2.04,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2017-12,2.02,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-01,2.0,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-02,2.0,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-03,1.96,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-04,1.95,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-05,1.94,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-06,1.91,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-07,1.87,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-08,1.83,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-09,1.79,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-10,1.81,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-11,1.85,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2018-12,1.87,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-01,1.88,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-02,1.9,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-03,1.89,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-04,1.84,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-05,1.83,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-06,1.8,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-07,1.79,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-08,1.75,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-09,1.7,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-10,1.68,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-11,1.67,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2019-12,1.64,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-01,1.69,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-02,1.72,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-03,1.71,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-04,1.66,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-05,1.61,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-06,1.57,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-07,1.52,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-08,1.5,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-09,1.48,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-10,1.48,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-11,1.48,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2020-12,1.46,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-01,1.45,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-02,1.43,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-03,1.43,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-04,1.43,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-05,1.43,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-06,1.44,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-07,1.45,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-08,1.48,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-09,1.48,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-10,1.48,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-11,1.49,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2021-12,1.49,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-01,1.48,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-02,1.53,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-03,1.56,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-04,1.65,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-05,1.78,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-06,1.93,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-07,2.15,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-08,2.35,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-09,2.54,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-10,2.73,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-11,2.89,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2022-12,3.08,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-01,3.17,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-02,3.34,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-03,3.44,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-04,3.46,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-05,3.54,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-06,3.64,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-07,3.62,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-08,3.69,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-09,3.73,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-10,3.78,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-11,3.81,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2023-12,3.9,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-01,3.66,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-02,3.67,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-03,3.51,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-04,3.42,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-05,3.44,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-06,3.43,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-07,3.41,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-08,3.4,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-09,3.34,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-10,3.28,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-11,3.19,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2024-12,3.16,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-01,3.05,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-02,3.09,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-03,3.07,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-04,3.15,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-05,3.19,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-06,3.24,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-07,3.27,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-08,3.29,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-09,3.36,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-10,3.37,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-11,3.38,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2025-12,3.45,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2026-01,3.45,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2026-02,3.47,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2026-03,3.43,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2026-04,3.52,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2026-05,3.55,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2026-06,3.59,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2026-07,3.64,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2026-08,3.7,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2026-09,3.76,0,Bank interest rates on loans to households for house purchase (new business),mortgage_rate_new,MIR.M.BE.B.A2C.A.R.A.2250.EUR.N
+2015-01,6094.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-02,6405.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-03,7088.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-04,6524.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-05,6117.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-06,6055.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-07,5918.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-08,4376.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-09,4512.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-10,3985.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-11,3182.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2015-12,3858.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-01,2722.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-02,2927.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-03,4621.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-04,5161.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-05,6147.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-06,6506.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-07,5709.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-08,5072.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-09,5126.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-10,5038.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-11,4370.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2016-12,4924.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-01,3542.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-02,3910.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-03,3644.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-04,2778.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-05,3075.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-06,3624.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-07,2784.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-08,2679.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-09,2955.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-10,3075.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-11,2669.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2017-12,3252.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-01,3226.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-02,2786.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-03,3234.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-04,3082.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-05,2967.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-06,3463.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-07,3228.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-08,2930.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-09,3140.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-10,3496.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-11,3216.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2018-12,3654.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-01,3009.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-02,3041.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-03,3100.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-04,3301.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-05,3516.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-06,3928.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-07,4341.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-08,3763.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-09,4204.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-10,4860.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-11,4353.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2019-12,7735.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-01,3429.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-02,2847.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-03,3177.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-04,2308.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-05,3396.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-06,3782.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-07,3461.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-08,3140.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-09,4006.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-10,4603.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-11,4101.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2020-12,5086.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-01,3772.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-02,4007.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-03,5171.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-04,4529.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-05,4436.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-06,5161.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-07,4460.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-08,3863.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-09,4176.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-10,4112.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-11,3333.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2021-12,4260.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-01,4277.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-02,3951.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-03,4574.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-04,3814.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-05,3929.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-06,4254.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-07,3588.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-08,3304.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-09,3450.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-10,3562.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-11,2860.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2022-12,3354.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-01,2364.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-02,2429.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-03,2712.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-04,2232.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-05,2388.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-06,2831.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-07,2625.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-08,2325.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-09,2536.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-10,2853.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-11,2425.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2023-12,2858.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-01,2138.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-02,2387.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-03,2486.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-04,2486.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-05,2721.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-06,2836.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-07,3027.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-08,2762.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-09,2963.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-10,3694.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-11,3031.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2024-12,3433.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-01,3897.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-02,3187.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-03,3528.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-04,3447.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-05,3275.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-06,3775.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-07,3754.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-08,3306.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-09,3473.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-10,3752.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-11,3296.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2025-12,4007.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2026-01,3023.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2026-02,2999.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2026-03,4074.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2026-04,3344.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2026-05,3020.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2026-06,3814.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2026-07,3607.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2026-08,3176.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N
+2026-09,3614.0,6,Bank business volumes on loans to households for house purchase (new business),mortgage_volume_new,MIR.M.BE.B.A2C.A.B.A.2250.EUR.N

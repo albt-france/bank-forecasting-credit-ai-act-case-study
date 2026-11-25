@@ -1,0 +1,9 @@
+check,status,rows_affected,detail,owner
+"unique (date, atm_id)",FAIL,9,"duplicate rows on 2026-06-02; fix: deduplicate in staging (sql/01), reload guard in the loader",data engineering
+zero vs missing,FAIL,36,"18 ATMs report 0 EUR and 0 transactions while in service on 2026-03-12, 2026-03-13; set to NULL (sql/01)",data engineering
+required fields not null,PASS,0,"date, atm_id, withdrawals_eur, n_transactions",data engineering
+freshness (< 08:00 next day),WARN,2,"late files: 2026-03-12, 2026-03-13 (up to 38 h after 00:00 next day)",data engineering
+rows per day = active ATMs,FAIL,1,2026-06-02: 68 rows vs 59 expected,data engineering
+no rows after decommissioning,PASS,0,ATM037 decommissioned 2026-05-15; its station neighbour ATM036 takes part of the demand (feature 'neighbour_closed'),data science
+extreme values explained,WARN,37,"local events calendar: annual festival (2025-07-17 to 2025-07-20, 2026-07-16 to 2026-07-19), 32 ATM-days at x2.6 the usual level: real demand, kept and modelled with an event feature; outside events: 5 isolated ATM-days above x2.5, sent to the branch network for review (not removed)",business + data science
+network-level drop vs last week,PASS,0,"12 drops below 60%, all on statutory Belgian public holidays, incl. Easter Monday 2026-04-06 (2024-12-25, 2025-04-21, 2025-05-29, 2025-06-09, 2025-07-21, 2025-08-15...): no alert",data science
